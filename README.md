@@ -3,9 +3,9 @@
 
 🌆 **Software Engineer based in the neon glow of Los Angeles**  
 Detail-oriented full stack developer with 7+ years of experience in customer service and e-commerce—now channeling those skills into building robust, user-friendly web applications.
+
 <p align="center">--- 🌐 ---</p>
 
----
 
 ## 💻 Tech Stack & Skills
 
@@ -29,8 +29,8 @@ Check out more on my [Portfolio](https://ariana-anaya.github.io/Portfolio/).
 
 When I'm not bringing ideas to life through code, you'll find me:
 - At a live show or concert
-- Hosting game night with friends  
-- Catching movies at AMC (AMC Stubs A-List = best hack 🎬)
+- Having game night with friends
+- Catching the newest movie and logging it on letterboxd (AMC Stubs A-List = best hack 🎬)
 
 ---
 
