@@ -2,7 +2,7 @@
 # Hi, I'm Ariana Anaya 👋
 <p align="center">--- 🌐 ---</p>
 
-🌆 **Software Engineer based in the neon glow of Los Angeles**  
+🌆 ##Software Engineer based in the neon glow of Los Angeles 
 Detail-oriented full stack developer with 7+ years of experience in customer service and e-commerce—now channeling those skills into building robust, user-friendly web applications.
 
 ---
