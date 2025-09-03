@@ -18,7 +18,7 @@ Detail-oriented full stack developer with 7+ years of experience in customer ser
 
 ## 🚀 Favorite Projects
 
-- 🎶 [**Capstone Project: songScribe**](https://github.com/Ariana-Anaya/Capstone): A creative platform for music lovers.
+- 🎶 [**Capstone Project: SongScribe**](https://github.com/Ariana-Anaya/Capstone): A creative platform for music lovers.
 - 🍽 [**Python Group Project: YelpClone**](https://github.com/Ariana-Anaya/Python-Group-Project): A full-stack clone inspired by Yelp.
 
 Check out more on my [Portfolio](https://ariana-anaya.github.io/Portfolio/).
