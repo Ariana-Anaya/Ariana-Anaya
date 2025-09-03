@@ -43,19 +43,19 @@ My Skills
 <!-- Projects Section -->
 
 Notable Projects
-[Project 1 Title]
-A brief, one-sentence description of the project.
+[SongScribe]
+A full-stack music logging application. The React/Redux frontend enables real time song search and entry management, leveraging the Spotify API and a database caching system. The Python/Flask backend and PostgreSQL database securely manage user data via RESTful API endpoints.
 
-Technologies Used: [List key technologies here, e.g., React, Express, PostgreSQL]
+Technologies Used: [React, Redux, Flask, SpotifyAPI, Python, PostgreSQL]
 
 [Link to Project Demo](https://rechordr.onrender.com/)
 
 Link to GitHub Repo
 
-[Project 2 Title]
-A brief, one-sentence description of the project.
+[Yelp Clone]
+A full-stack business review platform. The React/Redux frontend provides a dynamic UI with real-time search and CRUD operations. The Python/Flask backend uses PostgreSQL and session-based authentication to securely manage businesses, reviews, and images.
 
-Technologies Used: [List key technologies here, e.g., Python, Flask, Sequelize]
+Technologies Used: [React, Redux, Flask, SpotifyAPI, Python, PostgreSQL]
 
 [Link to Project Demo](https://ravr.onrender.com/)
 
