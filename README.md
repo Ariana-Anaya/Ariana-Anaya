@@ -15,6 +15,7 @@ Detail-oriented full stack developer with 7+ years of experience in customer ser
 - **Frameworks & Libraries:** React, Flask, Express, Node.js, Sequelize
 - **E-commerce & Ops:** Shopify, Volusion, Shipstation, Google Adwords, ADP
 - **Other:** Customer Service, UI/UX, Agile Development
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -26,6 +27,7 @@ Detail-oriented full stack developer with 7+ years of experience in customer ser
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ---
 
 ## 🚀 Favorite Projects
@@ -60,5 +62,5 @@ _Software should be as welcoming as a SoCal sunset. Let’s collaborate on somet
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,express,nodejs,netlify,npm,ps,postgres,postman,py,react,redux,sqlite,sequelize,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,express,nodejs,netlify,npm,ps,postgres,postman,py,react,redux,sqlite,sequelize,vscode&perline=4)](https://skillicons.dev)
 
