@@ -46,4 +46,8 @@ When I'm not bringing ideas to life through code, you'll find me:
 
 _Software should be as welcoming as a SoCal sunset. Let’s collaborate on something amazing!_
 
-
+<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
+<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
