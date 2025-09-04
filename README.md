@@ -50,7 +50,7 @@ When I'm not bringing ideas to life through code, you'll find me:
 
 ## 📫 Let’s Connect!
 
-- 👋 [Linkedin]([https://ariana-anaya.github.io/Portfolio/](https://www.linkedin.com/in/ariana-anaya1/))
+- 👋 [Linkedin](https://www.linkedin.com/in/ariana-anaya1/)
 
 - 💼 [Portfolio](https://ariana-anaya.github.io/Portfolio/)
 
