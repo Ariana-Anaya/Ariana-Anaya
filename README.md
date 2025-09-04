@@ -1,13 +1,14 @@
-# Hi, I'm Ariana 👋  
+# Hi, I'm Ariana 👋
+
+<img align="right" alt="neon coding GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTd2d2doeW5xZmMyNmU2Y3lxYzF4YTRydW5yZDVhdDVjNzlqanN0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="320" />
 
 <p align="center">--- 🌐 ---</p>
 
-🌆 **Software Engineer based in the neon glow of Los Angeles** 
+🌆 **Software Engineer based in the neon glow of Los Angeles**  
 
 Detail-oriented full stack developer with 7+ years of experience in customer service and e-commerce—now channeling those skills into building robust, user-friendly web applications.
 
 ---
-
 
 ## 💻 Tech Stack & Skills
 
