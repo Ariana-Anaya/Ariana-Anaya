@@ -1,5 +1,5 @@
 
-# Hi, I'm Ariana Anaya 👋
+# Hi, I'm Ariana 👋
 <p align="center">--- 🌐 ---</p>
 
 🌆 **Software Engineer based in the neon glow of Los Angeles** 
@@ -42,9 +42,9 @@ Check out more on my [Portfolio](https://ariana-anaya.github.io/Portfolio/).
 ## 👩‍💻 About Me
 
 When I'm not bringing ideas to life through code, you'll find me:
-- At a live show or concert
-- Having game night with friends
-- Catching the newest movie and logging it on letterboxd (AMC Stubs A-List = best hack 🎬)
+- 🎫 At a live show or concert 
+- 🎮 Having game night with friends 
+- 🎬 Catching the newest movie and logging it on letterboxd (AMC Stubs A-List = best hack)
 
 ---
 
