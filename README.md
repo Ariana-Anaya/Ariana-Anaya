@@ -60,5 +60,5 @@ _Software should be as welcoming as a SoCal sunset. Let’s collaborate on somet
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,express,nodejs,netlify,npm,ps,postgres,postman,py,react,redux,sqlite,sequelize,vscode)](https://skillicons.dev)
 
