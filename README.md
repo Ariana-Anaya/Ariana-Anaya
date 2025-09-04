@@ -45,14 +45,5 @@ When I'm not bringing ideas to life through code, you'll find me:
 ---
 
 _Software should be as welcoming as a SoCal sunset. Let’s collaborate on something amazing!_
-<p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,python,postgres,html,css" alt="Languages" />
-<br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,flask,express,nodejs,sequelize" alt="Frameworks & Libraries" />
-<br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dshopify,google,aws,gcp" alt="E-commerce & Ops" />
-<br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma,jira,slack,git,github" alt="Other Tools" />
-</p>
 
 
