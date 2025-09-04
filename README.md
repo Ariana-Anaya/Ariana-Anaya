@@ -1,21 +1,26 @@
-# Hi, I'm Ariana 👋
+### Hi, I'm Ariana 🌐
 
 <img align="right" alt="neon coding GIF" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTd2d2doeW5xZmMyNmU2Y3lxYzF4YTRydW5yZDVhdDVjNzlqanN0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="320" />
 
-<p align="center">--- 🌐 ---</p>
+![Open Source Lover](https://img.shields.io/badge/Open%20Source-Lover-ff69b4)
+![Coffee Powered](https://img.shields.io/badge/Coffee-Powered-4B3621)
+![Music Lover](https://img.shields.io/badge/Music-Lover-green?logo=spotify&logoColor=black)
+
 
 🌆 **Software Engineer based in the neon glow of Los Angeles**  
 
 Detail-oriented full stack developer with 7+ years of experience in customer service and e-commerce—now channeling those skills into building robust, user-friendly web applications.
 
+
+
 ---
 
-## 💻 Tech Stack & Skills
+### 💻 Tech & Skills
 
-- **Languages:** JavaScript, Python, SQL (Postgres), HTML, CSS
-- **Frameworks & Libraries:** React, Flask, Express, Node.js, Sequelize
-- **E-commerce & Ops:** Shopify, Volusion, Shipstation, Google Adwords, ADP
-- **Other:** Customer Service, UI/UX, Agile Development
+JavaScript, Python, PostgreSQL, HTML, CSS
+React, Redux, Flask, Express, Node.js, Sequelize
+Shopify, Volusion, Shipstation, Google Adwords, ADP,
+Customer Service, 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,16 +36,16 @@ Detail-oriented full stack developer with 7+ years of experience in customer ser
 
 ---
 
-## 🚀 Favorite Projects
+### 🚀 Favorite Projects
 
-- 🎶 [**Capstone Project: SongScribe**](https://github.com/Ariana-Anaya/Capstone): A creative platform for music lovers.
-- 🍽 [**Python Group Project: YelpClone**](https://github.com/Ariana-Anaya/Python-Group-Project): A full-stack clone inspired by Yelp.
+- 🎶 SongScribe: A creative platform for music lovers. [Live](https://rechordr.onrender.com/) [Github](https://github.com/Ariana-Anaya/Capstone)
+- 🍽 YelpClone: A full-stack clone inspired by Yelp. [Live](https://ravr.onrender.com/) [Github](https://github.com/Ariana-Anaya/Python-Group-Project)
 
-Check out more on my [Portfolio](https://ariana-anaya.github.io/Portfolio/).
+
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
 When I'm not bringing ideas to life through code, you'll find me:
 - 🎫 At a live show or concert 
@@ -49,7 +54,7 @@ When I'm not bringing ideas to life through code, you'll find me:
 
 ---
 
-## 📫 Let’s Connect!
+### 📫 Let’s Connect!
 
 - 👋 [Linkedin](https://www.linkedin.com/in/ariana-anaya1/)
 
