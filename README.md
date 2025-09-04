@@ -1,4 +1,5 @@
-# Hi, I'm Ariana 👋
+# Hi, I'm Ariana 👋  
+
 <p align="center">--- 🌐 ---</p>
 
 🌆 **Software Engineer based in the neon glow of Los Angeles** 
@@ -49,13 +50,9 @@ When I'm not bringing ideas to life through code, you'll find me:
 
 ## 📫 Let’s Connect!
 
-<div id="badges">
-  <a href="[your-linkedin-URL](https://linkedin.com/in/ariana-anaya1)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+- 👋 [Linkedin]([https://ariana-anaya.github.io/Portfolio/](https://www.linkedin.com/in/ariana-anaya1/))
 
-- [Portfolio](https://ariana-anaya.github.io/Portfolio/)
+- 💼 [Portfolio](https://ariana-anaya.github.io/Portfolio/)
 
 - 📧 Ariana.Anaya@proton.me
 
