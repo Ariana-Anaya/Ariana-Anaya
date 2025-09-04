@@ -1,4 +1,3 @@
-
 # Hi, I'm Ariana 👋
 <p align="center">--- 🌐 ---</p>
 
@@ -50,8 +49,14 @@ When I'm not bringing ideas to life through code, you'll find me:
 
 ## 📫 Let’s Connect!
 
-- [LinkedIn](https://linkedin.com/in/ariana-anaya1)
+<div id="badges">
+  <a href="[your-linkedin-URL](https://linkedin.com/in/ariana-anaya1)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 - [Portfolio](https://ariana-anaya.github.io/Portfolio/)
+
 - 📧 Ariana.Anaya@proton.me
 
 ---
