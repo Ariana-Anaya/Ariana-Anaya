@@ -62,5 +62,5 @@ _Software should be as welcoming as a SoCal sunset. Let’s collaborate on somet
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,express,nodejs,netlify,npm,ps,postgres,postman,py,react,redux,sqlite,sequelize,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,express,nodejs,npm,ps,postgres,postman,py,react,redux,sqlite,sequelize,vscode&perline=8)](https://skillicons.dev)
 
