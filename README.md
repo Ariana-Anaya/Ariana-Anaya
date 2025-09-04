@@ -68,10 +68,7 @@ _Software should be as welcoming as a SoCal sunset. Let’s collaborate on somet
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,express,nodejs,npm,ps,postgres,postman,py,react,redux,sqlite,sequelize,vscode&perline=8)](https://skillicons.dev)
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Ariana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ariana-Anaya&show_icons=true&hide_border=true" />
-</details>
+
 
 <details>
   <summary>:zap: Most Used Languages</summary>
