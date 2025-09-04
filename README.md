@@ -45,19 +45,14 @@ When I'm not bringing ideas to life through code, you'll find me:
 ---
 
 _Software should be as welcoming as a SoCal sunset. Let’s collaborate on something amazing!_
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
+<p align="center">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,python,postgres,html,css" alt="Languages" />
+<br>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,flask,express,nodejs,sequelize" alt="Frameworks & Libraries" />
+<br>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dshopify,google,aws,gcp" alt="E-commerce & Ops" />
+<br>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma,jira,slack,git,github" alt="Other Tools" />
+</p>
 
 
