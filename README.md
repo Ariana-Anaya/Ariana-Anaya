@@ -9,7 +9,8 @@
 
 🌆 **Software Engineer based in the neon glow of Los Angeles**  
 
-Detail-oriented full stack developer with 7+ years of experience in customer service and e-commerce—now channeling those skills into building robust, user-friendly web applications.
+I'm a full stack developer with a constant curiosity for coding. I enjoy unique projects, apps that are a little different and
+creating tools that make the users life easier, more interesting or just more enjoyable in any way. 
 
 
 
