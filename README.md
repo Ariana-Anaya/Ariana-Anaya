@@ -59,7 +59,7 @@ When I'm not bringing ideas to life through code, you'll find me:
 
 - 👋 [Linkedin](https://www.linkedin.com/in/ariana-anaya1/)
 
-- 💼 [Portfolio](https://ariana-anaya.github.io/Portfolio/)
+- 💼 [Portfolio](https://ariana-anaya.nicepage.io/)
 
 - 📧 Ariana.Anaya@proton.me
 
